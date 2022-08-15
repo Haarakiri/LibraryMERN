@@ -1,0 +1,18 @@
+- Problèmes rencontrés lors du projet
+
+La mise en place de la stack Mern m'a posé des diufficulté inattendu,
+je reussi qu'a installer le projet apres de nombreuse tentatives et reset.
+
+La plupart des aides trouvés en ligne semble ne plus etre a jour, 
+les technologies m'etait tres etrangeres et m'ont posé problemes pour les comprendre avant de les utilisés.
+
+Je n'ai au final pu produire qu'une connexion basique au serveur et a la BDD,
+j'ai cependant lors de précendante tentative pu 'jouer' un peu avec style-components et les aspect Front end de Mern, 
+mais j'ai préferer arreter vu que le serveur express ne fonctionnait pas correctement
+
+J'ai aussi vu comment changer le contenu du page selon l url avec ce serveur express
+
+Aucun aspect de la library n'a été mis en place, mis a part une recupération basique d'un element. 
+
+Malgré les difficultés que j'ai pu rencointrés j'ai le sentiments d'avoir copris les bases de mern, je regrette de ne pas avoir pu fournir un resultat plus intérréssant mais je pense avoir découvert quelque d'intéressant pour mes projets a venir.
+
